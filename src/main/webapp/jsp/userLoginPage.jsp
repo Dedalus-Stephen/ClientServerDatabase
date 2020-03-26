@@ -57,8 +57,8 @@
 <div id = "box">
     <div id = "form">
     <form action="/acceptUser" ><br>
-        <input type="text" name="name" class = "textView" placeholder="user name e.g: Roman"><br>
-        <input type="password" name="password" class = "textView" style="margin-top: 1%" placeholder="password"><br>
+        <input type="text" name="name" class = "textView" placeholder="USERNAME e.g: Roman"><br>
+        <input type="password" name="password" class = "textView" style="margin-top: 1%" placeholder="PASSWORD"><br>
         <button type="submit" value="Sign Up" class="button">
             Sign Up
         </button>
